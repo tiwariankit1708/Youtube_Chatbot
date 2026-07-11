@@ -11,6 +11,8 @@
 
 *Paste a YouTube link, and chat with the video like you're talking to an expert who watched the whole thing.*
 
+> 📅 **Last Updated:** July 2026
+
 ---
 
 </div>
