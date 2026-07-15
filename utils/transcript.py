@@ -52,7 +52,7 @@ def get_transcript(video_url: str) -> str:
     loader = YoutubeLoader.from_youtube_url(
         video_url,
         add_video_info=False,
-        language=["hi"]
+        language=["en", "hi"]
     )
     docs = loader.load()
     transcript = docs[0].page_content
